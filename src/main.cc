@@ -1,5 +1,5 @@
 #include <Adafruit_NeoPixel.h>
-#include <gol.h>
+#include <helix.h>
 
 #define PIXELS 32
 #define PIN 6
